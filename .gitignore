@@ -1,0 +1,5 @@
+desktop.ini
+.vscode/
+__pycache__/
+*.pyc
+.env
